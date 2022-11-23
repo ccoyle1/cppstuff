@@ -2,7 +2,7 @@
 using namespace std;
 
 int main() {
-    int num{100};
+    int num{ 100 };
     cout << "Hello from P2" << endl;
     cout << "Enter a number: ";
     cin >> num;
